@@ -21,7 +21,6 @@ import string
 import traceback
 import random
 import asyncio
-from hachoir.parser import createParser
 from PIL import Image
 from datetime import datetime
 from random import choice
