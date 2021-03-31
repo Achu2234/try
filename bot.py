@@ -21,7 +21,6 @@ import string
 import traceback
 import random
 import asyncio
-import https://pypi.org/project/aiofiles/
 from hachoir.metadata import extractMetadata
 from hachoir.parser import createParser
 from PIL import Image
