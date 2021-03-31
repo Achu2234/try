@@ -21,7 +21,6 @@ import string
 import traceback
 import random
 import asyncio
-from PIL import Image
 from datetime import datetime
 from random import choice
 from core.ffmpeg import vidmark, take_screen_shot
